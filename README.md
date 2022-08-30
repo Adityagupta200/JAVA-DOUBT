@@ -17,5 +17,6 @@ Doubt is how can i make the output look like:-
 2 * 1 = 2
 2 * 2 = 4
 
-and likewise till 2*10 = 20.
+and likewise till 
+2 * 10 = 20.
 I'm just not getting how to increment the numbers after the '*'.

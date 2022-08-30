@@ -15,6 +15,7 @@ here is the code.
 Doubt is how can i make the output look like:-
 
 2 * 1 = 2
+
 2 * 2 = 4
 
 and likewise till 
